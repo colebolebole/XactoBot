@@ -12,3 +12,6 @@ x!ticket - Creates a support ticket!
 x!weather - Shows weather data from imputed location!
 x!sayimage - says imputed words into an image!
 x!tell - a more advanced way to show a message on discord! do x!texample to see what it looks like.
+x!youtubesearch - searches youtube
+x!googlesearch - searches google
+x!sourcecode - gives link to source code
