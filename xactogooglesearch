@@ -1,0 +1,8 @@
+$nomention
+$color[#f442c8]
+$footerIcon[https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2000px-Google_%22G%22_Logo.svg.png]
+$author[Google Search]
+$footer[By Google]
+$description[Search Google... https://www.google.com/search?q=$message
+Search : $message
+Author : $username]
